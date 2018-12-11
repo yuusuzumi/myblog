@@ -1,4 +1,4 @@
-baseURL = "https://bleuacide.net"
+baseURL = "https://bleuacide.net/"
 languageCode = "ja_JP"
 title = "星屑の夜"
 theme = "hugo_theme_robust"
