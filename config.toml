@@ -23,4 +23,5 @@ disqusShortname = ""
   page = ["HTML", "AMP"]
 
 [permalinks]
-  post = "/:section/:title/"
+  memo = "/:section/:title/"
+  shopping = "/:section/:title/"
