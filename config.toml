@@ -1,3 +1,26 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://bleuacide.net"
+languageCode = "ja_JP"
+title = "星屑の夜"
+theme = "hugo_theme_robust"
+themeDir = "themes"
+hasCJKLanguage = true
+
+GoogleAnalytics = ""
+disqusShortname = ""
+
+
+[params]
+  description = "備忘録と独り言など雑記"
+  dateformat = "2006/01/02"
+
+[params.author]
+  thumbnail = ""
+  name = "yuusuzumi"
+  description = ""
+  github = "https://github.com/yuusuzumi"
+
+[outputs]
+  page = ["HTML", "AMP"]
+
+[permalinks]
+  post = "/:section/:title/"
