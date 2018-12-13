@@ -7,7 +7,9 @@ tags:
   - "final"
 categories:
   - "購入物品"
-thumbnail: ""
+thumbnail:
+  - "images/E1000_GALLERY_02.jpg"
+  - "images/E1000_GALLERY_08.jpg"
 ---
 
 先月の話です。
@@ -21,4 +23,11 @@ thumbnail: ""
 購入してびっくりしたことは、大きさがソニーのヘッドホンの半分ぐらいしかありません。それに筐体とコードを繋ぐ持ち手がないので、いつもの癖でケーブルを引っ張って耳から抜いちゃいます。これはいけません・・・。気を付けなければ・・・
 
 しかし、これからは楽しい音楽生活が送れそうです。
+
+12/13 追記
+
+画像を追加しました
+
+{{% img src="images/E1000_GALLERY_02.jpg" w="600" h="400" caption="公式サイトギャラリーより" href="http://snext-final.com/products/detail/E1000#gallery" %}}
+{{% img src="images/E1000_GALLERY_08.jpg" w="600" h="400" caption="公式サイトギャラリーより" href="http://snext-final.com/products/detail/E1000#gallery" %}}
 
