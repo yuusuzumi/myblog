@@ -25,3 +25,4 @@ disqusShortname = ""
 [permalinks]
   memo = "/:section/:title/"
   shopping = "/:section/:title/"
+  trpg = ":section/:title/"
