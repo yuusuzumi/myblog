@@ -1,10 +1,10 @@
-baseURL = "https://bleuacide.net/"
+baseURL = "https://yuusuzumi.github.io/blog/"
 languageCode = "ja"
 title = "星屑の夜"
 theme = "hugo_theme_robust"
 themeDir = "themes"
 hasCJKLanguage = true
-
+canonifyurls = true
 GoogleAnalytics = ""
 disqusShortname = ""
 
